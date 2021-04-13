@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ImedMoussi
 - 👀 I’m interested in Mecatroncs
 - 🌱 I’m currently learning Python
-- 📫 How to reach me : 
--- E-mail: imedmoussi062399@gmail.com
+- 📫 How to reach me : \n
+-- E-mail: imedmoussi062399@gmail.com \n
 -- LinkedIn: https://www.linkedin.com/in/moussi-imed-mect/
 
 <!---
