@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @ImedMoussi
-### 👀 I’m interested in Mecatroncs
+### 👀 I’m interested in Mecatronics
 ### 🌱 I’m currently learning Python
 ### 📫 How to reach me :
 - E-mail: imedmoussi062399@gmail.com
